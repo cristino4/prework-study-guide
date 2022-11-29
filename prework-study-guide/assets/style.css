@@ -11,11 +11,11 @@ footer {
 }
 h1 {
     text-align : center;
-    color: green;
+    color: white;
 }
 h2 {
     text-align: center;
-    color: red;
+    color: black;
 }
 img {
     display: block;
@@ -35,6 +35,6 @@ p {
 .card {
 width: 80%;
 margin: 40px auto;
-border: 5px solid green;
+border: 5px solid blue;
 box-shadow: 5px 10px #000000;
 }
